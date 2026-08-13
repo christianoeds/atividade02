@@ -1,4 +1,4 @@
 //calculo de juro simples
 function juros(c,i) {
-    return (c * i) /1000;
+    return (c * i) /100;
 }
